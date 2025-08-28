@@ -1,2 +1,5 @@
-# lidarseye.github.io
-This is the repository that contains source code for the LiDAR's Eye project website, adapted from VGG-T.
+# Main
+This is the repository that contains source code for the [Through LiDAR's Eye](https://github.com/fz-rit/through-the-lidars-eye), adapted from <a rel="license" href="https://vgg-t.github.io">VGG-T</a>..
+
+# Website License
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
